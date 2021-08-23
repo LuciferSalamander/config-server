@@ -1,0 +1,8 @@
+demo config server
+
+hello
+
+db:
+	connection: string-connection
+	host: 127.0.0.1
+	port: 999
