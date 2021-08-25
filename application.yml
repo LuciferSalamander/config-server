@@ -1,8 +1,9 @@
 my:
-	greeting: Hello world
-	list:
-		values: one, two, three
+  greeting: Hello world
+  list:
+    values: One, Two, Three
+    
 db:
-	conection: string-connection
-	host: 127.0.0.1
-	port:9999
+  connection: connection-string-here
+  host: 127.0.0.1
+  port: 1200
